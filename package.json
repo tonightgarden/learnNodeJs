@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tonightgarden/learnNodeJs/issues"
   },
-  "homepage": "https://github.com/tonightgarden/learnNodeJs#readme"
+  "homepage": "https://github.com/tonightgarden/learnNodeJs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
